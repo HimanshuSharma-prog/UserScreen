@@ -20,3 +20,15 @@ or
 
 ## open ExpoGo in the mobile and scan the qrcode
 
+## For apk build use
+
+## `eas build -p android --profile preview`
+
+## For playdtore build use
+
+## `eas build -p android`
+
+
+
+
+
